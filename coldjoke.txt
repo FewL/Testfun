@@ -1,7 +1,3 @@
 I am your father!
-<<<<<<< HEAD
-Huh? You think you are Funny?!
-=======
 Huh? You think you are Funny?!
 Oh yeah
->>>>>>> d8e696c (hello orphan!)
